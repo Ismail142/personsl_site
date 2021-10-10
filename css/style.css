@@ -1,0 +1,118 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+/* HEADER */
+
+header {
+    background-image: linear-gradient(rgba(33, 225, 231, 0.555), rgba(177, 150, 173, 0.363)),  url("../images/cv_background.png");
+    background-size: cover;
+    background-attachment: scroll;
+    height: 100vh;
+    background-position: center;
+}
+
+.header-text h4 {
+    margin-top: 2%;
+    word-spacing: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+.header-text h1 {
+    border-bottom: 1px solid whitesmoke;
+    padding-bottom: 10px;
+    font-size: 60px;
+    display: inline-block;
+    color: white;
+}
+
+.header-text {
+    text-align: center;
+    padding-top: 15%;
+}
+
+/* SECTION CV-INTRO */
+
+.cv-intro {
+    margin-top: 50px;
+    text-align: center;
+    padding: 40px 180px;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 40px;
+    color: rgba(61, 231, 104, 0.808);
+}
+
+.cv-intro p {
+    font-size: 20px;
+}
+
+.details-intro {
+    float: right;
+}
+
+h3 {
+    color: rgba(54, 206, 92, 0.788);
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+hr {
+    margin: 40px 0px;
+    opacity: 0.3;
+}
+
+/* .about-me */
+
+thead tr td {
+    color: rgba(61, 231, 104, 0.808);
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.my-image {
+    margin-right: 60px;
+    margin-left: 20px;
+}
+
+.inspired {
+    margin:40px 0px;
+}
+
+/* email button */
+
+.button {
+    margin-top: 60px;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: orange;
+    border-radius: 100px;
+    color: #fff
+}
+
+.button :hover {
+    background-color: blue;
+}
+
+/* EXPERIENCES */
+
+.experience {
+    background-color: #F3EFE0;
+    padding: 40px 180px;
+}
+
+.heading-of-experience {
+    text-align: center;
+}
+
+q {
+    font-size: 20px;
+}
+
+
+
+
