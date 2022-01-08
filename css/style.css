@@ -79,6 +79,7 @@ thead tr td {
     margin-left: 20px;
     width: 200px;
     height: 200px;
+    border-radius: 100px;
 }
 
 .inspired {
