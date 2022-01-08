@@ -77,6 +77,8 @@ thead tr td {
 .my-image {
     margin-right: 60px;
     margin-left: 20px;
+    width: 200px;
+    height: 200px;
 }
 
 .inspired {
